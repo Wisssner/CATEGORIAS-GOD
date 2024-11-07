@@ -6,6 +6,7 @@ const int MAX_CATEGORIAS = 11;
 const int MAX_PRODUCTOS = 10;
 struct Producto 
 {
+ // productos
     std::string nombre;
     double precio;
     int stock;
